@@ -4,9 +4,8 @@
 
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="27px" margin-left="3px">&nbsp;***About me***
 
-I'm a **Frontend Developer** with a university degree in Programming and knowledge of modern web technologies. Programming since 2021.
-
-- ⏳ I’m currently working on ...
+- 👨‍💻 I'm a **Frontend Developer** with a university degree in Programming.
+- ⏳ Currently working on ...
   - A soccer scoreboard website
   - My blog
 - 🎯 I look forward to collaborating in a professional environment.
