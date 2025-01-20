@@ -1,10 +1,10 @@
 <h1 align="center"><b>Hi there! I'm Miguel Ángel Gil </b><img src="https://media.tenor.com/V6eqjObT7DQAAAAj/hola.gif" width="39" alt="Hello Gif"></h1>
 
-<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTB0b3RpY2NjZW12ano1cGgzbjNjcWtzb2F2d3NqeGwwZnpwMjFweCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l41m6XWcURxUcKLWE/giphy.gif" align="right" width=308px height=445px alt="Paradise" >
+<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTB0b3RpY2NjZW12ano1cGgzbjNjcWtzb2F2d3NqeGwwZnpwMjFweCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l41m6XWcURxUcKLWE/giphy.gif" align="right" width=308px height=442px alt="Paradise" >
 
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="27px" margin-left="3px">&nbsp;***About me***
 
-I'm a Frontend Developer with a university degree in Programming and knowledge of modern web technologies. Programming since 2021.
+I'm a **Frontend Developer** with a university degree in Programming and knowledge of modern web technologies. Programming since 2021.
 
 - ⏳ I’m currently working on ...
   - A soccer scoreboard website
