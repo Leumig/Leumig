@@ -14,7 +14,7 @@
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="27px"> ***Links***
 - 🤖 Check out my X/Twitter Bot, <a href="https://github.com/Leumig/bot-twitter">Messi Perfect Shots</a>
 - 👨‍💻 Explore <a href="https://miguel-angel-gil.netlify.app/">My Portfolio</a>
-- 💼 Connect with me on <a href="linkedin.com/in/gil-miguel-angel/">My LinkedIn</a>
+- 💼 Connect with me on <a href="https://www.linkedin.com/in/gil-miguel-angel/">My LinkedIn</a>
 - 📫 Reach me at <a href="junmigue7@gmail.com">junmigue7@gmail.com</a>
 
 ##  My Skills include
