@@ -6,7 +6,7 @@
 
 - 👨‍💻 I'm a **Frontend Developer** with a university degree in Programming.
 - ⏳ Currently working on ...
-  - A soccer scoreboard website
+  - Vital Avellaneda project
   - My blog
 - 🎯 I look forward to collaborating in a professional environment.
 - 🏠 Outside tech, I love watching and talking about soccer ⚽, playing video games 🎮, and listening to music 🎵.
